@@ -1,4 +1,4 @@
-# Icons8 Playwright E2E Test 🚀
+# Icons8 Playwright E2E Test 
 
 **Тестовое задание на позицию Junior QA Engineer (AI Automation) в команду Icons8.**
 
